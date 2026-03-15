@@ -1,0 +1,25 @@
+{
+  "profile": {
+    "name": "Alex",
+    "age": 22,
+    "job": "Stagiaire Marketing",
+    "stress": 30,
+    "fun": 50
+  },
+  "finance": {
+    "balance": 2600,
+    "savings": 5025.03125,
+    "debt": 0,
+    "investments": {},
+    "transactions_log": []
+  },
+  "inventory": [
+    "Vieux Laptop",
+    "Vélo"
+  ],
+  "time": {
+    "month": 3,
+    "year": 2024
+  },
+  "game_over": false
+}

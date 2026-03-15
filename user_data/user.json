@@ -1,0 +1,41 @@
+{
+  "profile": {
+    "name": "Alex",
+    "age": 22,
+    "job": "Stagiaire Marketing",
+    "stress": 60,
+    "fun": 100
+  },
+  "finance": {
+    "balance": 141500.0,
+    "savings": 5402.388651254034,
+    "debt": 0,
+    "transactions_log": [],
+    "investments": {
+      "Cryptomonnaies": {
+        "amount": 3000.0,
+        "purchase_price": 1500.0
+      }
+    }
+  },
+  "inventory": [
+    "Vieux Laptop",
+    "Vélo",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "PC Surpuissant",
+    "Équipement de Boulangerie Professionnel",
+    "Scooter"
+  ],
+  "time": {
+    "month": 8,
+    "year": 2026
+  },
+  "game_over": false,
+  "employment": {
+    "salary": 1200
+  }
+}
